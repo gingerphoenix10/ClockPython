@@ -1,0 +1,6 @@
+setup.py
+src/clockpython.py
+src/ClockPython.egg-info/PKG-INFO
+src/ClockPython.egg-info/SOURCES.txt
+src/ClockPython.egg-info/dependency_links.txt
+src/ClockPython.egg-info/top_level.txt
