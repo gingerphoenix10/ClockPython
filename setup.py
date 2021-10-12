@@ -21,5 +21,8 @@ setup(
 			"pytest>=3.7",
 		],
 	},
+	url="https://github.com/gingerphoenix10/ClockPython",
+	author="gingerphoenix10",
+	author_email="gingerphoenix10@gmail.com"
 
 )

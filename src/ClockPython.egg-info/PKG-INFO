@@ -2,7 +2,9 @@ Metadata-Version: 2.1
 Name: ClockPython
 Version: 0.0.1
 Summary: Gets the current 12 or 24 hour time
-Home-page: UNKNOWN
+Home-page: https://github.com/gingerphoenix10/ClockPython
+Author: gingerphoenix10
+Author-email: gingerphoenix10@gmail.com
 License: UNKNOWN
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.10
@@ -20,13 +22,16 @@ A simple module that can get the current 24 or 12 hour time
 
 Example:
 
->>> Print(ClockPython.time(24))
+> Print(ClockPython.time(24))
+
 23:00
 
 Example 2:
 
->>> Time_Variable = ClockPython.time(12)
->>> Print(Time_Variable)
+> Time_Variable = ClockPython.time(12)
+
+> Print(Time_Variable)
+
 11:00
 
 ## Installation
@@ -37,5 +42,5 @@ To install type in command prompt:
 
 or, to install it in dev mode, locate the directory of ClockPython and type:
 
-"pip install -e .[dev]
+"pip install -e .[dev]"
 
