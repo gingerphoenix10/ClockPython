@@ -23,4 +23,4 @@ To install type in command prompt:
 
 or, to install it in dev mode, locate the directory of ClockPython and type:
 
-"pip install -e .[dev]
+"pip install -e .[dev]"
