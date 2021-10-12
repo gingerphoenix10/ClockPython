@@ -6,13 +6,13 @@ A simple module that can get the current 24 or 12 hour time
 
 Example:
 
- Print(ClockPython.time(24))
+> Print(ClockPython.time(24))
 23:00
 
 Example 2:
 
- Time_Variable = ClockPython.time(12)
- Print(Time_Variable)
+> Time_Variable = ClockPython.time(12)
+> Print(Time_Variable)
 11:00
 
 ## Installation
